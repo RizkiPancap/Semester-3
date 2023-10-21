@@ -1,4 +1,4 @@
-let pendapatan = 7000000; // Dapat Di Rubah jumlah pendapatan sesuai kebutuhan
+let pendapatan = 700000; // Dapat Di Rubah jumlah pendapatan sesuai kebutuhan
 
 if (pendapatan <= 200000) {
   let uangJasa = 10000;
